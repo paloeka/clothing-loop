@@ -1,13 +1,13 @@
 {
-  "faqForParticipants": "FAQ for Participants",
+  "faqForParticipants": "FAQ per i Partecipanti",
   "arrParticipants": [
     {
-      "question": "Are there rules on how much you can take out, and do you have to donate the same amount of clothes as you take out?",
-      "answer": "No, there are no rules here. Sometimes you take a bit more, sometimes you give more. Please don't add clothes to the bags that aren't of good quality, just to add something! It's better to have a bag half full of treasures, than to have a full bag that is of less quality."
+      "question": "Ci sono regole su quanto si può prendere, e devi donare la stessa quantità di vestiti che si toglie?",
+      "answer": "No, non ci sono regole qui. A volte si prende un po' di più, a volte si dà più. Per favore, non aggiungere vestiti alle borse che non sono di buona qualità, solo per aggiungere qualcosa! È meglio avere una borsa piena a metà di tesori, che avere una borsa piena di qualità minore."
     },
     {
-      "question": "Can all sizes of clothing be in the same bag?",
-      "answer": "Mixed bags work perfectly well usually, as sizes vary per brand and proportions are different as well. But this only works within a certain width. We recommend having a mix of items from size 36 - 42 (S, M and L) and starting a new Clothing Loop for smaller or bigger sizes."
+      "question": "Tutte le taglie di abbigliamento possono essere nella stessa borsa?",
+      "answer": "Le borse miste funzionano perfettamente bene solitamente in quanto le dimensioni variano per marca e le proporzioni sono anche diverse. Si consiglia di avere un mix di articoli taglia 36 - 42 (S, M e L) e avviare un nuovo Clothing Loop per taglie più piccole o più grandi."
     },
     {
       "question": "How to avoid “Finders keepers, losers weepers”?",
