@@ -2,7 +2,7 @@
   "genericError": "Er is een onbekende fout opgetreden",
   "removeFromLoop": "Verwijder uit Loop",
   "leave": "Verlaat",
-  "areYouSureLeaveLoop": "Weet je zeker dat je {{ name }} uit \"{{ chain }}\" Loop wilt stappen?",
+  "areYouSureLeaveLoop": "Weet je zeker dat je “{{ name }}” uit “{{ chain }}” Loop wilt stappen?",
   "setAsAParticipant": "Instellen als deelnemer",
   "selected": "Geselecteerd",
   "selectParticipant": "Deelnemer selecteren",
